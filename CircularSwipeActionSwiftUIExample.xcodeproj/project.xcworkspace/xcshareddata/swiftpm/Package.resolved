@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/swiftui-introspect",
+      "state" : {
+        "revision" : "9e1cc02a65b22e09a8251261cccbccce02731fc5",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "uicustomswipeactions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sebjvidal/UICustomSwipeActions",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fe2881cf579ce3c58d479612ebbb0461f700b517"
+      }
+    }
+  ],
+  "version" : 2
+}
